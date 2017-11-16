@@ -1,3 +1,8 @@
+
+# GAN models in Alphabetical Order (GAN-Zoo) : 
+* https://github.com/nitish11/Deep-Learning-Resources/tree/master/Deep-Learning-GAN/GAN-Zoo
+
+
 # tensorflow-generative-model-collections
 Tensorflow implementation of various GANs and VAEs.
 
