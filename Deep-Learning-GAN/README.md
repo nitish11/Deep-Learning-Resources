@@ -233,5 +233,7 @@ This implementation has been based on [this repository](https://github.com/carpe
 
 
 ## Credits
-
 * https://github.com/hwalsuklee/tensorflow-generative-model-collections
+
+## Reference : 
+* https://deephunt.in/the-gan-zoo-79597dc8c347
